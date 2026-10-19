@@ -1,5 +1,7 @@
 # Rocket vs Robots
 
+[Watch the Level 3 demo on YouTube](https://youtu.be/b3Tf3h7HEJE).
+
 Run with `uv run game`.
 
 Level 1 has slower robots (80 pixels per second) and no bombs.
